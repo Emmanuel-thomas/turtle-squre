@@ -1,0 +1,16 @@
+import  turtle
+b= turtle.Turtle()
+b.color("blue", "cyan")
+
+b.begin_fill()
+
+b.forward(150)
+b.left(90)
+b.forward(150)
+b.left(90)
+b.forward(150)
+b.left(90)
+b.forward(150)
+b.left(90)
+b.end_fill()
+turtle.done()
